@@ -6,7 +6,7 @@ body{
 .banner{
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url(modern-vintage.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url(https://img.freepik.com/premium-photo/modern-vintage-interior-living-room-blueprint-home-decor-concept-green-couch-with-marble-table-blue-wall-hardwood-flooring-3d-render_33739-489.jpg?w=2000);
   background-size: cover;
   background-position: center;
 }
